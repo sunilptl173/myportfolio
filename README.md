@@ -42,8 +42,8 @@
       <p>Some of my latest projects.</p>
     </div>
     <div class="w3-row">
-      <div class="w3-half"><img src="/w3images/coffee.jpg" style="width:100%"></div>
-      <div class="w3-half"><img src="/w3images/workbench.jpg" style="width:100%"></div>
+      <div class="w3-half"><img src="image 1.webp" style="width:100%"></div>
+      <div class="w3-half"><img src="image 1.webp" style="width:100%"></div>
     </div>
     <p>Just call me awesome.</p>
   </div>
