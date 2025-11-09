@@ -25,7 +25,7 @@
   <div class="w3-half w3-blue-grey w3-container" style="height:700px">
     <div class="w3-padding-64 w3-center">
       <h1>About Me</h1>
-      <img src="mypic.png" class="w3-margin w3-circle" alt="Person" style="width:50%">
+      <img src="mypic.jpg" class="w3-margin w3-circle" alt="Person" style="width:50%">
       <div class="w3-left-align w3-padding-large">
         <p>Highly organized Accounts Payable and Finance Professional with 3+ years of experience in invoice processing, vendor management, financial reconciliation, and migration support across global operations.</p>
         <p>Proficient in SAP (EUC1, HANA, VIM), JDE, Power BI, Ariba Portal, IBM Datacap, and ServiceNow, with a strong track record of accuracy, compliance, and stakeholder collaboration.</p>
