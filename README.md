@@ -43,7 +43,11 @@
     </div>
     <div class="w3-row">
       <div class="w3-half"><img src="image 1.webp" style="width:100%"></div>
-      <div class="w3-half"><img src="image 1.webp" style="width:100%"></div>
+      <div class="w3-half"><img src="image 2.webp" style="width:100%"></div>
+      <div class="w3-half"><img src="image 3.webp" style="width:100%"></div>
+      <div class="w3-half"><img src="image 4.webp" style="width:100%"></div>
+      <div class="w3-half"><img src="image 5.webp" style="width:100%"></div>
+      <div class="w3-half"><img src="image 6.webp" style="width:100%"></div>
     </div>
     <p>Just call me awesome.</p>
   </div>
