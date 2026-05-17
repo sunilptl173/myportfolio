@@ -61,9 +61,14 @@
             <th>Year</th>
             <th>Role / Education</th>
             <th>Organization</th>
+            /tr>
+          <tr>
+            <td>Jan 2026 – Present</td>
+            <td>Accounting and Reporting Aanlyst </td>
+            <td>ABB Private Limited </td>
           </tr>
           <tr>
-            <td>Jan 2025 – Present</td>
+            <td>Jan 2025 – Dec2025</td>
             <td>Invoice to Pay Process Associate</td>
             <td>Cargill Business Services</td>
           </tr>
